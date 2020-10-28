@@ -1,0 +1,9 @@
+.github
+src
+.eslintignore
+.eslintrc
+.prettierrc
+tsconfig.json
+.releaserc.json
+readme.md
+!dist
