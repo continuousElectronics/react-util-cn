@@ -1,3 +1,3 @@
-# React Utils - Classname tools
+# React Utils - ClassName tools
 
-Classname tools
+ClassName tools
