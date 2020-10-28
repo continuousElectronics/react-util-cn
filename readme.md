@@ -1,3 +1,3 @@
-# React Utils - Next
+# React Utils - Classname tools
 
-Tools for Next JS
+Classname tools
